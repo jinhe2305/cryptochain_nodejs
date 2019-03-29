@@ -1,4 +1,4 @@
-# blockchain_nodejs
+# cryptochain_nodejs
 Create the simple blockchain in javascript in which we use Javascript as a language and Node.js as a backend to run the small project.
 
 This is an elementary example of implementing a blockchain.
